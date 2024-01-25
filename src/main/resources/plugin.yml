@@ -1,0 +1,4 @@
+name: first
+version: '${version}'
+main: plugin.first.First
+api-version: '1.20'
